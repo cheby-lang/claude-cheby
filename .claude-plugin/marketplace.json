@@ -1,0 +1,16 @@
+{
+  "name": "cheby-lang",
+  "owner": {
+    "name": "Cheby"
+  },
+  "metadata": {
+    "description": "Plugins for working on Cheby code with Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "cheby",
+      "source": "./plugins/cheby",
+      "description": "The Cheby language server, `cheby lsp`, for `.cheby` files"
+    }
+  ]
+}

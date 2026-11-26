@@ -1,0 +1,11 @@
+{
+  "cheby": {
+    "command": "cheby",
+    "args": [
+      "lsp"
+    ],
+    "extensionToLanguage": {
+      ".cheby": "cheby"
+    }
+  }
+}

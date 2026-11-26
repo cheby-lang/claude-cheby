@@ -1,0 +1,13 @@
+{
+  "name": "cheby",
+  "version": "0.1.0",
+  "description": "The Cheby language server, `cheby lsp`, for `.cheby` files",
+  "author": {
+    "name": "Cheby contributors"
+  },
+  "homepage": "https://github.com/cheby-lang/claude-cheby",
+  "keywords": [
+    "cheby",
+    "lsp"
+  ]
+}
